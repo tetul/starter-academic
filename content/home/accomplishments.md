@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Collaborations"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,51 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Prof. Norbert Perrimon and Dr. Andrey Parkhitko"
+    organization_url = "https://perrimon.med.harvard.edu"
+  organization = "Harvard University"
+   # url = ""
+   # certificate_url = "https://www.coursera.org"
+  date_start = "2019-01-01"
   date_end = ""
-  description = ""
+   description = "Tyrosine metabolism and ageing in <i>Drosophila</i>"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Asst. Prof. Robert Wessells"
+  organization_url = "https://physiology.med.wayne.edu/profile/dy4360"
+  organization = "Wayne State University"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  date_start = "2017-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Endurance and exercise variation and their relation to octopamine content in <i>Drosophila</i> species"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Prof. Reinhard Predel"
+  organization_url = "https://zoologie.uni-koeln.de/arbeitsgruppen/ag-predel"
+  organization = "University of Cologne"
+  # url = ""
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2014-08-01"
+  date_end = ""
+  description = "Identification of Agatoxin-like peptide, a novel neuropeptide in insects"
+
+[[item]]
+  title = "Prof. Christoph Kleineidam"
+  organization_url = "https://www.biologie.uni-konstanz.de/en/kleineidam/"
+  organization = "University of Konstanz"
+  # url = ""
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2019-12-01"
+  date_end = ""
+  description = "Neurochemical signatures of trail clearing behavior in leafcutter ants"
+
+[[item]]
+  title = "Dr. Einat Couzin-Fuchs"
+  organization_url = "https://www.couzin-fuchs-lab.com/"
+  organization = "CASCB, University of Konstanz"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "Neurochemical signatures of locust marching beahvior"
 
 +++
