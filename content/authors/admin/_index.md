@@ -35,7 +35,7 @@ education:
     year: 2012
   - course: BSc in Advanced Zoology and Biotechnology
     institution: Stella Maris College, University of Madras, India
-    year: 2007
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
