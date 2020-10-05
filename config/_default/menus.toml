@@ -8,6 +8,10 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Collaborations"
+  url = "#accomplishments"
+  weight = 20
 
 [[main]]
   name = "Projects"
