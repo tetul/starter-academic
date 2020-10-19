@@ -6,7 +6,7 @@ summary: "I will be establishing the liquid chromatography- mass spectrometry me
 
 
 
-This method is intented to be transferable to different insects. Current sub-projects include optimizing lyophilization conditions for brain dissections of ants, using in-house made stage-tips for sample cleanup and standardizing the Bradford method of protein estimation for species with large brain size variation."
+This method is intended to be transferable to different insects. Current sub-projects include optimizing lyophilization conditions for brain dissections of ants, using in-house made stage-tips for sample cleanup and standardizing the Bradford method of protein estimation for species with large brain size variation."
 authors: []
 tags: []
 categories: []
