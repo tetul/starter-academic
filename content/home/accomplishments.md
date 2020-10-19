@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = " began Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   # certificate_url = "https://www.datacamp.com"
   date_start = "2019-12-01"
   date_end = ""
-  description = "Neurochemical signatures of trail clearing behavior in leafcutter ants"
+  description = "Neurochemical signatures of the self reinforcing trail clearing behavior in leafcutter ants"
 
 [[item]]
   title = "Dr. Einat Couzin-Fuchs"
@@ -64,6 +64,6 @@ date_format = "Jan 2006"
   organization = "CASCB, University of Konstanz"
   date_start = "2020-06-01"
   date_end = ""
-  description = "Neurochemical signatures of locust marching beahvior"
+  description = "Identification of neuromoduators regulating the long range marching of gregarious locusts"
 
 +++

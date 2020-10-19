@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Honey bee foraging and the histaminergic system"
-summary: "This project stems from my PhD work where I found a correlation between honey bee foraging behavior and the ratios between histamine and its precursor, histidine. I explore this using pharmacological experiments in this project. By treating feeder trained bees with histamine, histidine, or the antagonist ranitidine, we look for changes in foraging activity."
+summary: "This project stems from my PhD work where I found a correlation between honey bee foraging behavior, across behavioral contexts, and the ratios between histamine and its precursor, histidine. I explore this using pharmacological experiments in this project. By treating feeder trained bees with histamine, histidine, or the antagonist ranitidine, we look for changes in foraging activity.
+
+
+Histamine  is the transmitter of the photoreceptor, and is involved in other behaviors including mechanosensation and circadian rhythmicity. However, it has not been given much importance in other behaviors. The finding that it might be involved in foraging behavior opens the possibility that its function in invertebrates and vertebrates are coonserved, in regulating appetitive motivation."
 authors: []
 tags: []
 categories: []
@@ -16,7 +19,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).

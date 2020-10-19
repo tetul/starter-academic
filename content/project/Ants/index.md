@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Modulation of sucrose responsiveness in ants"
-summary: "This a bachelor thesis project with Sarah Peter. We will be using <i>Camponotus mus</i> to study the variation in sucrose responsiveness in freely moving ants, under different conditions of colony hunger states. In addition, we will study the modulation of this responsiveness by oral treatment of dopamine, a well known influencer of the reward system in animals."
+summary: "This a bachelor thesis project with Sarah Peter. We will be using <i>Camponotus mus</i> to study the variation in sucrose responsiveness in freely moving ants, under different conditions of colony hunger states. In addition, we will study the modulation of this responsiveness by oral treatment of dopamine, a well known influencer of the reward system in animals. The experimental animals will be flash frozen for later analysis using mass spectrometry, to collect information about their neurochemical signatures"
 authors: []
 tags: []
 categories: []
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
   caption: "Brain of <i> Camponotus mus </i> ant"
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: true
 
 # Custom links (optional).

@@ -70,3 +70,5 @@ user_groups:
 
 
 I am a research associate with the neurobiology team at the University of Konstanz. My research interests are in understanding behavior using "neurochemical signatures" of the brain. I use social insects as my model system and my technique of choice is quantitative mass spectrometry. 
+
+I believe that behavior cannot be explained by a single or a handful or neurochemicals. However, this is the way most behavior is studied. By using mass spectrometry, a method that can simultaneously quantify multiple compounds at once, it is possible to look at how they all work together to create the neurochemical signature. This is particularly important when using non-genetic model organisms like social insects, that show varied complex behaviors.
