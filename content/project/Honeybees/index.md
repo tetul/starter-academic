@@ -18,7 +18,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The histaminergic system affects honey bee foraging"
   focal_point: "Bottom"
   preview_only: false
 
