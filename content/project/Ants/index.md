@@ -17,7 +17,7 @@ external_link: ""
 image: 
   caption: "Brain of <i> Camponotus mus </i> ant"
   focal_point: "Top"
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,6 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 ## Update: Jan 2021
 ### Carbohydrate measurements
 We have a new UV/Visible light spectrophotomter. Heike will help us use the phenol-sulfuric acid method to measure the total carbohydrates from ants samples from the different treatment groups. This way we will have an estimate of the extent of starvation treatment as another variable in our analyses. 
