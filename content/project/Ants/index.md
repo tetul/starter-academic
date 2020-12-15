@@ -42,7 +42,7 @@ slides: ""
 ## Update: Jan 2021
 ### Carbohydrate measurements
 We have a new UV/Visible light spectrophotomter. Heike will help us use the phenol-sulfuric acid method to measure the total carbohydrates from ants samples from the different treatment groups. This way we will have an estimate of the extent of starvation treatment as another variable in our analyses. 
-
+## Update: Dec 2020
 ### Data analysis
 Now that the ants have all been tested, it is time to see if the hunger state and the dopamine treatments have an effect on their sucrose acceptance. Sarah will perform statistical tests on the data to determine this. Lets hope for success!
 
