@@ -10,7 +10,7 @@ This method is intended to be transferable to different insects. Current sub-pro
 authors: []
 tags: []
 categories: []
-date: 2020-10-04T19:32:54+02:00
+date: 2020-12-15
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,3 +43,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+### Biological samples (sham ones)
+Three ant brains, three honey bee and three bumble bee brains will be used to extract transmitters. Internal standards will be added to both the samples and the standards. The hope is for high dynamic range, and low matrix effect.  
+
+### SPE and stage-tips
+Empore doesn't make their teflon SPE disks anymore. So we bought ENVI disks. THese are glass fiber meshes with C-18 material in them. More difficult to punch out using the flat bore needle. How many disks, how much pressure to use to stack them? What is the loading capacity, recovery, and elution volume? On a whole, a mess. Loading capacitites with even 3 disks are low. Throughput is low because every tip has to be handled separately. Fast eluting compounds do not bind to the tips at all. The final decision is to proceed without the disks, unless the matrix effect is too high to ignore. 
+
+
+### LC gradient
+Converted a 35 min gradient to a 17.5 min gradient by doubling the flow rate. The ammonium acetate in the solvent A was removed. Retention times are a bit shifted. Detection for Histamine and histidine are not great. 
+
+### MS tuning
+Tuning was done for 13 compounds. Histamine and Histidine were problematic.

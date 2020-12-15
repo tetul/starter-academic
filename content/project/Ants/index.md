@@ -6,7 +6,7 @@ summary: "This is a bachelor thesis project with Sarah Peter. We will be using <
 authors: []
 tags: []
 categories: []
-date: 2020-10-04T19:46:54+02:00
+date: 2020-12-15
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Update: Jan 2021
+### Carbohydrate measurements
+We have a new UV/Visible light spectrophotomter. Heike will help us use the phenol-sulfuric acid method to measure the total carbohydrates from ants samples from the different treatment groups. This way we will have an estimate of the extent of starvation treatment as another variable in our analyses. 
+
+### Data analysis
+Now that the ants have all been tested, it is time to see if the hunger state and the dopamine treatments have an effect on their sucrose acceptance. Sarah will perform statistical tests on the data to determine this. Lets hope for success!
+
+## Update: Nov 2020
+### Ant brain dissections
+After discussing with Marissa, Sarah has become an expert in partially freeze-drying and dissecting out the ant brains. They will wait in the deep freezer till the MS method is ready for them. 
+
+## Update Oct 2020
+### Experiment time
+Sarah has managed to perform her experiments on her ants. So far, it is a success. We will wait till the data is analysed to see the final results. 
