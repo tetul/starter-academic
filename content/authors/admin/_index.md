@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Independent Group Leader
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:divya.ramesh@uni-konstanz.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Dr_Tetulness
@@ -64,8 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 
